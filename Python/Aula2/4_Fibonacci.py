@@ -1,4 +1,4 @@
-#SEQUÊNCIA DE FIBONACCI
+# SEQUÊNCIA DE FIBONACCI
 
 a,b = 2, 3
 print("Sequ/ência de Fibonacci:")

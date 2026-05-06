@@ -1,4 +1,4 @@
-#NOTA EXCELENTE, RAZOÁVEL OU INSUFICIENTE
+# NOTA EXCELENTE, RAZOÁVEL OU INSUFICIENTE
 
 nota = float(input("Digite uma nota: "))
 

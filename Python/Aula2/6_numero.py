@@ -1,4 +1,4 @@
-#NÚMERO POSITIVO, NEGATIVO OU ZERO
+# NÚMERO POSITIVO, NEGATIVO OU ZERO
 
 numero = float(input("Digite uma nota: "))
 

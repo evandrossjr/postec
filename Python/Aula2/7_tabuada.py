@@ -1,4 +1,4 @@
-#TABUADA
+# TABUADA
 
 numeroTabuada = int(input("Digite um número para a tabuada: "))
 
