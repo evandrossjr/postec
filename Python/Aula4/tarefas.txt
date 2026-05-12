@@ -2,3 +2,7 @@ Tarefa: Ler emails
 Tarefa: Atualizar agenda
 Tarefa: Formatar PC
 ---
+Tarefa: ligar o nobreak
+Tarefa: manutenção do pc
+Tarefa: mudar agenda
+Tarefa: comprar HD

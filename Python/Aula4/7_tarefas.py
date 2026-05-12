@@ -3,16 +3,15 @@ from time import localtime
 
 def tarefas():
 
-    tarefa1 = input('Digite uma tarefa: ')
-    tarefa2 = input('Digite outra tarefa: ')
-    tarefa3 = input('Digite mais uma tarefa: ')
+   
 
     arquivo = open("tarefas.txt", 'a')
 
-    arquivo.write(f"Tarefa: {tarefa1}\n")
-    arquivo.write(f"Tarefa: {tarefa2}\n")
-    arquivo.write(f"Tarefa: {tarefa3}\n")
-    arquivo.write("---\n")
+    for i in range(3):
+
+        tarefa = input('Digite uma tarefa: ')
+        arquivo.write(f"Tarefa: {tarefa}\n")
+ 
 
 
     print("Tarefas salvas com sucesso!")

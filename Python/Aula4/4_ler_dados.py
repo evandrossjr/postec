@@ -9,9 +9,10 @@ movies = ["John Wick", "Mad Max: Estrada da Fúria", "Missão Impossível", "Gla
 def ler_dados():
     arquivo = open("dados.txt", 'w')
 
-    arquivo.write(f"Filme: {random.choice(movies)}\n")
-    arquivo.write(f"Filme: {random.choice(movies)}\n")
-    arquivo.write(f"Filme: {random.choice(movies)}\n")
+    for i in range(3):
+
+        arquivo.write(f"Filme: {random.choice(movies)}\n")
+   
     print("Dados salvos com sucesso!")
     arquivo.close()
 
