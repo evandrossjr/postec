@@ -1,0 +1,2 @@
+Sentimento positivo: bom
+Sentimento negativo: chato
